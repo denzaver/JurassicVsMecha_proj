@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoboVsDino", "RoboVsDino\RoboVsDino.csproj", "{FA841217-E7AC-4CE7-BA72-391530A1409E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA841217-E7AC-4CE7-BA72-391530A1409E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA841217-E7AC-4CE7-BA72-391530A1409E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA841217-E7AC-4CE7-BA72-391530A1409E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA841217-E7AC-4CE7-BA72-391530A1409E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C0FC1851-DC6B-4090-9543-E4681132EB89}
+	EndGlobalSection
+EndGlobal
