@@ -31,6 +31,5 @@ namespace RoboVsDino
 
             //dinoArmy.dinosaurs[0].health -= robotArmy.robots[0].weapon.attackPower;
         }
-
     }
 }

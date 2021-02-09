@@ -8,7 +8,6 @@ namespace RoboVsDino
 {
     class Dinosaur
     {
-
         // Memebr Variables
         public string type;
         public int health;
@@ -25,17 +24,13 @@ namespace RoboVsDino
             attackPower = 5;
 
         }
-
         // Memeber Methods (CAN DO)
         public void DinoAttack(Robot robot)
         {
             robot.health -= attackPower;
-            
+
             Console.WriteLine($"{type} has attacked {robot.health}. The {type} health is now " + robot.health);
 
         }
-
-
-
     }
 }

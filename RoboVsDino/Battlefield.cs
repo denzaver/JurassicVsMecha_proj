@@ -19,11 +19,7 @@ namespace RoboVsDino
             dinoArmy = new Herd();
         }
 
-
         //Member Methods
-        
-
-
         public void RunBattle()
         {
             //robotArmy.robots[0].health -= dinoArmy.dinosaurs[0].attackPower;
@@ -33,17 +29,11 @@ namespace RoboVsDino
             //for loop to iterate through indexes?
             //user input?
 
-            
             // I want the dino/robot to be chosen automatically as we move through the list starting at index 0
-
-
 
             // I want the user to be able to choose between
 
-
-
         }
-        
 
     }
 }
